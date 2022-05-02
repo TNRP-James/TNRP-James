@@ -22,7 +22,7 @@ I am developing scripts for TNRP! 🚀.
 
 👨🏽‍💻 I’m currently developing scripts & content for <a href="https://www.tranquility.networks">Tranquility Networks</a>
 🤔 My interest lies in back-end development.<br>
-💬 Ask me about anything, I love to answer!
+💬 Ask me about anything, I love to answer!<br>
 📫 Contact me on Discord - jms#9999
 
 
