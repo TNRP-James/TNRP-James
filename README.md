@@ -20,9 +20,8 @@ I am developing scripts for TNRP! 🚀.
 
 **About Me!**
 
-- 👨🏽‍💻 I’m currently a CSE Undergrad student at GTBIT, GGSIPU
-- 🌱 I’m currently exploring JAVA with a big interest in JAVA applets and Data Structures and Algorithms. 
-- 🤔 My interest lies in front end web development.
+- 👨🏽‍💻 I’m currently developing scripts & content for <a href="https://www.tranquility.networks">Tranquility Networks</a>
+- 🤔 My interest lies in back-end development.
 - 💬 Ask me about anything, I love to answer!
 - 📫 Contact me on Discord - jms#9999
 
