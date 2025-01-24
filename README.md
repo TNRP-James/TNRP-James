@@ -1,4 +1,4 @@
-<h3 title="tnrp-on-top"> Hey 👋, I'm JP! - Tranquility Networks Founder & Developer.</h3>
+<h3 title="tnrp-on-top"> Hey 👋, I'm JP!</h3>
 
 <a href="https://discord.gg/tnrp">
   <img align="left" alt="Jaskirat's Twitter" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/discord.svg" />
@@ -10,17 +10,17 @@
 <br />
 <br />
 
-I am developing scripts for TNRP! 🚀.
+I am developing scripts for BRP! 🚀.
  
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 **About Me!**
 
-👨🏽‍💻 I’m currently developing scripts & content for <a href="https://www.tranquility.networks">Tranquility Networks</a><br>
+👨🏽‍💻 I’m currently developing scripts & content for BRP!
 🤔 My interest lies in back-end development.<br>
 💬 Ask me about anything, I love to answer!<br>
-📫 Contact me on Discord - jms#9999
+📫 Contact me on Discord - jms.exe
 
 
 
