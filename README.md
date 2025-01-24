@@ -1,8 +1,5 @@
 <h3 title="tnrp-on-top"> Hey 👋, I'm JP! - Tranquility Networks Founder & Developer.</h3>
 
-<a href="https://www.instagram.com/tranquilitynetworks/">
-  <img align="left" alt="Tranquility Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
 <a href="https://discord.gg/tnrp">
   <img align="left" alt="Jaskirat's Twitter" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/discord.svg" />
 </a>
