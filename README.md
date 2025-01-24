@@ -17,7 +17,7 @@ I am developing scripts for BRP! 🚀.
 
 **About Me!**
 
-👨🏽‍💻 I’m currently developing scripts & content for BRP!
+👨🏽‍💻 I’m currently developing scripts & content for BRP! <br>
 🤔 My interest lies in back-end development.<br>
 💬 Ask me about anything, I love to answer!<br>
 📫 Contact me on Discord - jms.exe
